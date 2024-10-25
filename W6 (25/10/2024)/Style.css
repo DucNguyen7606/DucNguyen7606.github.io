@@ -1,0 +1,30 @@
+
+span#id1{
+    color:red;
+}
+.highlight{
+    background-color: yellow;
+    color: blue;
+}
+#id2{
+    color: green;
+}
+
+
+
+div.items a{
+    color: green;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+span + p {
+    front-style: italic;
+    front-weight: bold;
+}
+
